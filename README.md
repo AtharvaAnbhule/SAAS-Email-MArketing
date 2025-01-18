@@ -39,7 +39,7 @@ This is a comprehensive Email Marketing Application built with Next.js, Prisma, 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/email-marketing-app.git
+   git clone https://github.com/AtharvaAnbhule/SAAS-Email-MArketing.git
    cd email-marketing-app
    ```
 

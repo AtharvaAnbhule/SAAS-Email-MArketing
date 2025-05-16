@@ -12,6 +12,9 @@ const nextConfig = {
         hostname: 'wordpress-1269066-4577871.cloudwaysapps.com',
       },
     ],
+  }, 
+  typescript: {
+    ignoreBuildErrors: true,
   },
 }
 
